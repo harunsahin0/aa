@@ -119,6 +119,9 @@ article{
 .blog h5{
     font-size: 14px;
 }
+.blog ol ul {
+    padding-left : 40px;
+}
 /********************Footer***********************************/
 footer{
     display: flex;
